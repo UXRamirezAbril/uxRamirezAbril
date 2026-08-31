@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/uxRamirezAbril/uxRamirezAbril/blob/main/banner.jpg">
 </div>
-<a href="https://www.linkedin.com/in/abril-ramirez-flores-71a26b275/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/>
+<a href="https://www.linkedin.com/in/uxramirezabril/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/>
 <a href="https://www.behance.net/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://dribbble.com/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
 
@@ -33,7 +33,7 @@ My goal is to **bridge design and development**, creating products that are both
 ## 📬 Let's connect:
 ⭐ Always open to collaboration, learning and new opportunities.
 
-<a href="https://www.linkedin.com/in/abril-ramirez-flores-71a26b275/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/>
+<a href="https://www.linkedin.com/in/uxramirezabril/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/>
 <a href="https://www.behance.net/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://dribbble.com/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
 
